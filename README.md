@@ -29,8 +29,8 @@ My contribution to this app was the giving it the online/offline interaction and
 
 ## Screenshots
 
-[home](pics/home.png)
-[transactions](pics/transactions.png)
+![home](pics/home.png)
+![transactions](pics/transactions.png)
 
 ## Questions
 
