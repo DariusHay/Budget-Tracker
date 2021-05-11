@@ -4,7 +4,7 @@ Budget Tracker
 
 ## Description
 
-This is an application that allows the user to track their finacial budget. This app takes deposits and transactions and allows the user to see a total of their account. This user can still use this application if they lose internet connetion.
+This is an application that allows the user to track their financial budget. This app takes deposits and transactions and allows the user to see a total of their account. This user can still use this application if they lose internet connetion.
 
 ## Table of Content
 
